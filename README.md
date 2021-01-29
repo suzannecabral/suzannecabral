@@ -4,7 +4,7 @@ I've studied full stack development and have a background in education and graph
 
 Skills: React / Node / Express / HTML / CSS / Sass
 
-- 👯 I’m looking to collaborate on Open-source projects for fun (WoW addons anyone?) or non-profits 
+- 👯 I’m looking to collaborate on open-source projects for fun (WoW addons anyone?) or non-profits 
 - ⚡ Fun fact: I'm a Tolkien nerd and I love gardening. Basically a hobbit. 
 
 
