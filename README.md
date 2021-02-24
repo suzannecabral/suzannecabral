@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Suzanne
 #### I am a Frontend Developer
-I've studied full stack development and have a background in education and graphic design. I also have a strong interest in product design with respect to the intersection of UX, accessibility and visual design.
+I can work both frontend and backend, but I really enjoy the design side of things. My background is a combination of web dev, graphic design, business ops, and education. 
 
 Skills: React / Node / Express / HTML / CSS / Sass
 
