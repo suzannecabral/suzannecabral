@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Suzanne
-#### I am a Frontend Developer
+#### I am a Full Stack Web Developer
 I can work both frontend and backend, but I really enjoy the design side of things. My background is a combination of web dev, graphic design, business ops, and education. 
 
 Skills: React / Redux / Node / Express / Python / Django
