@@ -2,7 +2,7 @@
 #### I am a Full Stack Engineer
 I can work both frontend and backend, but I really enjoy the design side of things. My background is a combination of web dev, graphic design, business ops, and education. 
 
-Skills: React / Redux / Node / Express / Python / Django
+Skills: React / Redux / Node / Express / Python / Django / Sass / Graphic Design
 
 - 🔭 I’m currently working on launching my portfolio site
 - 👯 I’m looking to collaborate on open-source projects for fun (WoW addons anyone?) or non-profits 
